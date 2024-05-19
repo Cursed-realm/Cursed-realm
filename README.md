@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Sharma</h1>
 <h3 align="center">A passionate computer science student from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Cursed-realm/Cursed-realm/assets/148676165/c6f200b3-3441-4313-ac77-4f577e1bee4b">
+
 
 - 🌱 I’m currently learning **Python**
 
