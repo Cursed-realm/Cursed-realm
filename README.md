@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cursed-realm&show_icons=true&locale=en" alt="cursed-realm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cursed-realm&" alt="cursed-realm" /></p>
+<h3 align="center"><b>If you like my repo then show some love &#128151 by adding stars &#9733 to them</b></h3>
